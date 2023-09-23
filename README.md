@@ -4,7 +4,7 @@
 ## Front-end Developer
 
 - 🌍  I'm based in Fortaleza - Ceará
-- 🖥️  See my portfolio at [MyPortfolio](https://matheusaraujo.vercel.app/)
+- 🖥️  See my portfolio at [MyPortfolio](https://dyoogo.github.io/Alpha-Studio.app/)
 - ✉️  You can contact me at [mouradyoogo@gmail.com](mouradyoogo@gmail.com)
 - 🧠  I'm learning Micro Frontend | Automated Testing | Mobile Development | UX/UI Design
 
