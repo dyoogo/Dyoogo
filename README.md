@@ -3,10 +3,10 @@
 
 ## Front-end Developer
 
-- 🌍  I'm based in Fortaleza - Ceará
+- 🌍  I'm based in Goiânia - Goias
 - 🖥️  See my portfolio at [MyPortfolio](https://dyoogo.github.io/Alpha-Studio.app/)
 - ✉️  You can contact me at [mouradyoogo@gmail.com](mouradyoogo@gmail.com)
-- 🧠  I'm learning Micro Frontend | Automated Testing | Mobile Development | UX/UI Design
+- 🧠  I'm learning Micro Frontend | Automated Testing | Mobile Development | UX/UI Design | Games 
 
 
 ## Skills
